@@ -1,0 +1,3 @@
+MSTW2008nlo_asmzrange.LHgrid 9
+NNPDF23_nlo_as_0118.LHgrid 101
+CT10.LHgrid 0
